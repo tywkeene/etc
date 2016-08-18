@@ -1,0 +1,5 @@
+#fc-cache -vf ~/.fonts
+xrdb -merge ~/.Xresources
+feh --bg-max $HOMEIMAGES/wallpapers/sicp.jpg
+xset m 2/1 0 
+exec dwm

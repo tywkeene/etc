@@ -1,0 +1,7 @@
+[user]
+	email = tyrell.wkeene@gmail.com
+	name = Tyrell Keene
+[push]
+	default = simple
+[merge]
+	tool = gvimdiff

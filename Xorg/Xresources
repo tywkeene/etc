@@ -1,0 +1,23 @@
+*scrollBar: false
+*font: xft: Terminess\ Powerline:size=10:antialias=true:hinting=true
+*background: #262626
+*foreground: #d9e6f2
+*color0: #000000
+*color8: #262626
+*color1: #a07b88
+*color9: #bcb1bd
+*color2: #6ead88
+*color10: #a4c9bd
+*color3: #a0ad88
+*color11: #bcc9bd
+*color4: #6e7bb9
+*color12: #a4b1d5
+*color5: #a07bb9
+*color13: #bcb1d5
+*color6: #6eadb9
+*color14: #a4c9d5
+*color7: #d9d9d9
+*color15: #ffffff
+
+Emacs.FontBackend: xft
+Emacs.font: Monospace-10
