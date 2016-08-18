@@ -1,4 +1,0 @@
-source $HOMEETC/vim/plugins.vim
-source $HOMEETC/vim/keybinds.vim
-source $HOMEETC/vim/options.vim
-source $HOMEETC/vim/functions.vim
