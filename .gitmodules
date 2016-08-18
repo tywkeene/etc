@@ -2,5 +2,5 @@
     path = oh-my-zsh
     url = https://github.com/tywkeene/oh-my-zsh
 [submodule "vim"]
-    path = vim
-    url = https://github.com/tywkeene/vim
+	path = vim
+	url = https://github.com/tywkeene/vim
